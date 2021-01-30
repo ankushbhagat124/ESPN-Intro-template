@@ -1,0 +1,85 @@
+body
+{
+	background-image: url('../images/back.png');
+	fill: all;
+
+}
+#navbar a hover
+{
+	color: red;
+}
+.button
+{
+    outline-width: 80%;
+    font-size: 20px;
+	background-color: royalblue;
+	color: white;
+}
+.button:hover
+{
+	color: yellow;
+}
+.container
+{
+	width:80%;
+	margin:auto;
+	
+}
+#navbar ul
+{
+	padding: 0;
+    list-style: none;
+    
+}
+#navbar li
+{
+	display: inline;
+}
+#navbar a
+{
+	color: blue;
+	text-decoration: none;
+	padding-left: 120px;
+	font-size: 18px;
+}
+#showcase
+{
+	font-size: 30px;
+    font-weight: 8000;
+	font-style: bold;
+	color: white;
+	padding-top: 30px;
+	text-align: center;
+}
+#main
+{
+	padding: 0px;
+	text-align: center;
+	font-size: 18px;
+	color: white;
+	float: center;
+}
+#main ul
+{
+	fill: all;
+	padding: 0;
+    list-style: none;
+}
+#main li
+{
+	display: inline;
+}
+#main a
+{
+	color: blue;
+	text-decoration: none;
+	padding-left: none;
+	font-size: 18px;
+}
+#main-footer
+{
+	color:white;
+	text-align: center;
+	padding:20px;
+	margin-top:20px;
+}
